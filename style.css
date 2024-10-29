@@ -36,6 +36,11 @@ button{
     border:none;
     margin-top: 25px;
     display: inline-block;
+    
+}
+
+button:hover{
+    background: lightgrey;
 }
 
 .search{
